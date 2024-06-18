@@ -1,4 +1,4 @@
-package com.example.mixin;
+package com.github.noamm9.noammaddonsforge.mixin;
 
 import net.minecraft.client.gui.GuiMainMenu;
 import org.spongepowered.asm.mixin.Mixin;
